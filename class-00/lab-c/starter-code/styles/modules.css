@@ -5,7 +5,7 @@
     text-decoration: none;
 }
 
-#logo img {
+#logo img, .date, aside img {
     float: left;
 }
   
@@ -43,10 +43,6 @@ nav li {
     margin-bottom: 33px;
 }
   
-.date {
-    float: left;
-}
-  
 .print {
     text-decoration: none;
     padding-left: 30px;
@@ -80,10 +76,6 @@ main p {
     width: 40%;
     font-size: 1.3em;
     line-height: 31px;
-}
-  
-aside img {
-    float: left;
 }
 
 aside h3 {
